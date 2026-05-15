@@ -94,5 +94,5 @@ will be posted on this page with a new effective date.
 For questions about this privacy policy, contact:
 
 ```text
-your-email@example.com
+shantanu.baddar2006@gmail.com
 ```
